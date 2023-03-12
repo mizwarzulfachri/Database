@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Database</string>
+    <string name="nama">Nama</string>
+    <string name="nim">NIM</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="tambah">tambah</string>
+    <string name="edit">edit</string>
+    <string name="delete">delete</string>
+    <string name="nama_mahasiswa">Nama Mahasiswa</string>
+    <string name="nim_mahasiswa">NIm Mahasiswa</string>
+    <string name="kembali">Kembali</string>
+    <string name="hapus">Hapus</string>
+</resources>
